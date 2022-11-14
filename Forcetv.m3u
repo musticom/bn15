@@ -1,38 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Paradise City
-http://my.forcetv.pro:8880/movie/VyGkKdy5kg/VgLhiDT9gE/8455.mkv
-#EXTINF:-1,The Cult of Humpty Dumpty
-http://my.forcetv.pro:8880/movie/VyGkKdy5kg/VgLhiDT9gE/8454.mkv
-#EXTINF:-1,Amsterdam
-http://my.forcetv.pro:8880/movie/VyGkKdy5kg/VgLhiDT9gE/8453.mkv
-#EXTINF:-1,Black Panther: Wakanda Forever
-http://my.forcetv.pro:8880/movie/VyGkKdy5kg/VgLhiDT9gE/8447.mkv
-#EXTINF:-1,ابو كرتونة
-http://my.forcetv.pro:8880/movie/VyGkKdy5kg/VgLhiDT9gE/8440.mkv
-#EXTINF:-1,The System
-http://my.forcetv.pro:8880/movie/VyGkKdy5kg/VgLhiDT9gE/8433.mkv
-#EXTINF:-1,Overdose
-http://my.forcetv.pro:8880/movie/VyGkKdy5kg/VgLhiDT9gE/8432.mkv
-#EXTINF:-1,House of Clowns
-http://my.forcetv.pro:8880/movie/VyGkKdy5kg/VgLhiDT9gE/8431.mkv
-#EXTINF:-1,Black Adam
-http://my.forcetv.pro:8880/movie/VyGkKdy5kg/VgLhiDT9gE/8430.mkv
-#EXTINF:-1,Shadow Master
-http://my.forcetv.pro:8880/movie/VyGkKdy5kg/VgLhiDT9gE/8429.mkv
-#EXTINF:-1,Safe House
-http://my.forcetv.pro:8880/movie/VyGkKdy5kg/VgLhiDT9gE/8428.mkv
-#EXTINF:-1,R.I.P.D. 2: Rise of the Damned
-http://my.forcetv.pro:8880/movie/VyGkKdy5kg/VgLhiDT9gE/8427.mkv
-#EXTINF:-1,Mandrake
-http://my.forcetv.pro:8880/movie/VyGkKdy5kg/VgLhiDT9gE/8426.mkv
-#EXTINF:-1,Lost Bullet 2
-http://my.forcetv.pro:8880/movie/VyGkKdy5kg/VgLhiDT9gE/8425.mkv
-#EXTINF:-1,Enola Holmes 2
-http://my.forcetv.pro:8880/movie/VyGkKdy5kg/VgLhiDT9gE/8424.mkv
-#EXTINF:-1,Blaze
-http://my.forcetv.pro:8880/movie/VyGkKdy5kg/VgLhiDT9gE/8423.mkv
-#EXTINF:-1,11:11
-http://my.forcetv.pro:8880/movie/VyGkKdy5kg/VgLhiDT9gE/8407.mkv
 #EXTINF:-1, Bein-Sports-1-PREMIUM-HD-H265
 http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/8334.ts
 #EXTINF:-1, Bein-Sports-2-PREMIUM-HD-H265
@@ -87,7 +53,7 @@ http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/8358.ts
 http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/8359.ts
 #EXTINF:-1, max-4-low
 http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/8360.ts
-#EXTINF:-1,عمهم
+#EXTINF:-1,amouhom
 http://my.forcetv.pro:8880/movie/VyGkKdy5kg/VgLhiDT9gE/8244.mkv
 #EXTINF:-1,فضل و نعمة
 http://my.forcetv.pro:8880/movie/VyGkKdy5kg/VgLhiDT9gE/8243.mkv
@@ -95,8 +61,6 @@ http://my.forcetv.pro:8880/movie/VyGkKdy5kg/VgLhiDT9gE/8243.mkv
 http://my.forcetv.pro:8880/movie/VyGkKdy5kg/VgLhiDT9gE/8242.mkv
 #EXTINF:-1,مش رايحين في داهية
 http://my.forcetv.pro:8880/movie/VyGkKdy5kg/VgLhiDT9gE/8197.mkv
-#EXTINF:-1,1
-http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/8195.ts
 #EXTINF:-1,واحد تاني
 http://my.forcetv.pro:8880/movie/VyGkKdy5kg/VgLhiDT9gE/8106.mkv
 #EXTINF:-1,FORCE COMEDY
